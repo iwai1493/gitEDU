@@ -4,5 +4,6 @@ git commit -m 'ƒRƒƒ“ƒg'
 
 
 git status
-git log
+git log (--oneline,-n 3,-p filename)
+git diff(HEAD)
 
