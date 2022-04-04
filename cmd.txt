@@ -1,2 +1,8 @@
-git add ファイル名
+git add ファイル名 or git rm ファイル名
 git commit -m 'コメント'
+
+
+
+git status
+git log
+
