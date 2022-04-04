@@ -1,5 +1,8 @@
 git add ファイル名 or git rm ファイル名
 git commit -m 'コメント'
+*git remote add origin https://github.com/iwai1493/gitEDU.git
+git push origin master
+
 
 
 
